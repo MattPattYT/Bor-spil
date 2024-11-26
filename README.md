@@ -1,1 +1,1 @@
-# Bor-spil
+Github repository fyrir borðspil
